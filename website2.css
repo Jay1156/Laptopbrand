@@ -1,0 +1,66 @@
+.button{
+    margin-left: 200px;
+}
+.container{
+    display: flex;
+}
+.cardB{
+    margin-left: 60px;
+}
+.cardA{
+    margin-left: 60px;
+}
+.cardC{
+    margin-left: 60px;
+}
+.cardD{
+    margin-left: 60px;
+}
+.card-text{
+    font-size: small;
+}
+.buttonZ{
+    margin-left: 400px;
+}
+.cardy{
+    display: flex;
+}
+.footer{
+    height: 500px;
+    width: 1010px;
+    background-color: black;
+}
+.footerin{
+    height: 200px;
+    width: 1010px;
+    background-color: rgb(19, 19, 19);
+    
+}
+.servic{
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+.productnum{
+    color: white;
+    text-align: center;
+}
+.placeh input{
+    margin-left: 420px;
+    border-radius: 20%;
+}
+.parag{
+    margin-left: 95px;
+    color: white;
+}
+.king{
+    display: flex;
+}
+.parah{
+    margin-left: 140px;
+    color:white;
+}
+.parai{
+    margin-left: 95px;
+    color: white;
+}
